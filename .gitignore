@@ -1,0 +1,4 @@
+.vscode/
+*.fap
+*.elf
+dist/
